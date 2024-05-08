@@ -6,7 +6,9 @@
 
 - 💬 Ask me about **Javascript, React, NodeJS, C++**
 
-- 📄 Chechout my [Portfolio](https://mekeyur.vercel.app/)
+- 📫 How to reach me ****
+
+- 📄 Chechout my portfolio [Portfolio](https://mekeyur.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keyuraval&show_icons=true&theme=dark&title_color=ffffff&text_color=d9d9d9&locale=en&layout=compact" alt="keyuraval" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karansethia&show_icons=true&theme=dark&title_color=ffffff&text_color=d4d4d4&locale=en" alt="karansethia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyuraval&show_icons=true&theme=dark&title_color=ffffff&text_color=d4d4d4&locale=en" alt="keyuraval" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansethia&theme=dark" alt="karansethia" /></p>
