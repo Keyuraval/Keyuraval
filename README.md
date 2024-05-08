@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Javascript, React, NodeJS, C++**
 
-- 📫 How to reach me ****
-
 - 📄 Chechout my portfolio [Portfolio](https://mekeyur.vercel.app/)
 
 
