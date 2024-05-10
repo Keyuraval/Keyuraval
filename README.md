@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **NextJS and Data Structures and Algorithms in C++**
 
-- 💬 Ask me about **Javascript, React, NodeJS, C++**
+- 💬 Interested discussing about **Javascript, React, NodeJS, C++**
 
-- 📄 Chechout my portfolio [Portfolio](https://mekeyur.vercel.app/)
+- 📄 Chechout my [Portfolio](https://mekeyur.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
