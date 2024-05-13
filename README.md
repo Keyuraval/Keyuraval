@@ -6,7 +6,7 @@
 
 - 💬 Interested discussing about **Javascript, React, NodeJS, C++**
 
-- 📄 Chechout my [Portfolio](https://mekeyur.vercel.app/)
+- 📄 Checkout my [Portfolio](https://mekeyur.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
