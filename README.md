@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer and Software Engineer from India</h3>
 
 
-- 🌱 I’m currently learning **NextJS and Data Structures and Algorithms in C++**
+- 🌱 I’m currently learning **WordPress and PHP**
 
 - 💬 Interested discussing about **Javascript, React, NodeJS, C++**
 
